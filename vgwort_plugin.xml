@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="content">
+  <name>VGWORT Plugin</name>
+  <version>1.0</version>
+  <description>Inserts VGWORT Zählmarken into articles</description>
+  <files>
+    <filename plugin="vgwort">vgwort.php</filename>
+  </files>
+</extension>
